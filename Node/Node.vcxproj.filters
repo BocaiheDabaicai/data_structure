@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Sqlist Node">
+      <UniqueIdentifier>{56d043eb-390a-4b68-8904-bd3670bdf5b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Stack queue">
+      <UniqueIdentifier>{d2742cd6-7282-4659-80b7-dabf4dde7f2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\String">
+      <UniqueIdentifier>{d8df2949-dd69-4c05-8828-6dbe9df07e9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Test">
+      <UniqueIdentifier>{a2a9de38-edf6-4a67-b58d-e0ef226ae889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Matrix">
+      <UniqueIdentifier>{99d59f09-f652-420c-8e03-4d8389a49410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\BinaryTree">
+      <UniqueIdentifier>{ed1765d3-032c-4bfd-83ef-8f6c58b83fff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Vertex">
+      <UniqueIdentifier>{b15cf402-9bc6-4916-9e7c-957639b68f67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Recent Test">
+      <UniqueIdentifier>{92996beb-2af8-465f-a9bc-9c40b07a3405}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DNode.cpp">
+      <Filter>源文件\Sqlist Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>源文件\Sqlist Node</Filter>
+    </ClCompile>
+    <ClCompile Include="sqlist.cpp">
+      <Filter>源文件\Sqlist Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Restart.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="NStack.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="NQueue.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="ShareStack.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="ShareQueue.cpp">
+      <Filter>源文件\Stack queue</Filter>
+    </ClCompile>
+    <ClCompile Include="LString.cpp">
+      <Filter>源文件\String</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>源文件\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix.cpp">
+      <Filter>源文件\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="trimat.cpp">
+      <Filter>源文件\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="olnode.cpp">
+      <Filter>源文件\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="BTNode.cpp">
+      <Filter>源文件\BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Chart.cpp">
+      <Filter>源文件\Vertex</Filter>
+    </ClCompile>
+    <ClCompile Include="Judgement.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiply.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Sortting.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueDatas.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+    <ClCompile Include="DateJudgement.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+    <ClCompile Include="rankSearch.cpp">
+      <Filter>源文件\Recent Test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
